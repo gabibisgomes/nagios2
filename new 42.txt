@@ -1,8 +1,0 @@
-Resource Name	User Account	Password	Description	DNS Name	OS Type	Resource URL	Environment Type
-Console AWS	cloud.aws.multirim@teiko.com.br	PwDyx42k22#	N/A	console.aws.amazon.com	Web Site Accounts	N/A	null
-Console AWS (MultiRim)	indyxa	K0r310Admin*	N/A	multirim.signin.aws.amazon.com	Web Site Accounts	https://multirim.signin.aws.amazon.com/console	null
-dbprod	admindyxa	ePv%Xm-9_LQ9BGnC	Servidor: ip-10-0-1-72 Middleware: Tomcat 8 - Tomcat Home: /opt/tasy/tomcat8 - User SO: tomcat - Banco de Dados Instance: dbprod - Porta: 1521 - IP: dbprd.cddp7hij4lfz.sa-east-1.rds.amazonaws.com - Aplicação: https://tasy.multirim.com.br/	18.231.195.7	Oracle DB Server	dbprod.cddp7hij4lfz.sa-east-1.rds.amazonaws.com	PRD
-dbtst	admindyxa	ePv%Xm-9_LQ9BGnC	Servidor: ip-10-0-1-54  Middleware: Tomcat 8 - Tomcat Home: /opt/tasy/tomcat8 - User SO: tomcat - Banco de Dados Instance: dbtst - Porta: 1521 - IP: dbtst.cddp7hij4lfz.sa-east-1.rds.amazonaws.com - Aplicação: https://testetasy.multirim.com.br/ - Conexão: WTASY	18.231.147.102	Oracle DB Server	dbtst.cddp7hij4lfz.sa-east-1.rds.amazonaws.com	TST
-WTS	administrator	kmgU&x!8aDo	N/A	18.229.5.210	Windows	N/A	null
-App Teste	ec2-user	.	Servidor Tomcat Teste	18.231.147.102	Linux	N/A	TST
-App Produção	ec2-user	.	Servidor Tomcat Produção	18.231.195.7	Linux	N/A	PRD
